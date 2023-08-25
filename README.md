@@ -1,5 +1,5 @@
 # Medium Whitespace Pixels
-Contains transparent pixel images that allow you to add whitespace to your content on Medium.
+Contains transparent pixel images that allow you to add whitespace to your content on Medium. All the images are completely free to use.
 
 # Purpose
 If you write dense tutorial content on Medium the article can start to feel cramped and busy. In these situations, it would be ideal to use whitespace to avoid cognitive overload. However, this is not an option Medium provides by default.
