@@ -1,3 +1,5 @@
+![Demonstration picture](https://github.com/Connor56/Medium-whitespace-pixels/assets/34070858/556f3d37-f958-44b2-a21f-c789e1b9c065)
+
 # Medium Whitespace Pixels
 Contains transparent pixel images that allow you to add whitespace to your content on Medium. All the images are completely free to use.
 
@@ -12,4 +14,9 @@ I hope you find them useful for formatting your article!
 
 # Tutorial on Usage
 
-You can follow my tutorial on how to use these pixel spacers here. A preview is below.
+You can follow my tutorial on how to use these [pixel spacers here](https://medium.com/@dr.connor/how-one-pixel-improved-my-articles-a4c496c9124e). A preview is below.
+
+![image](https://github.com/Connor56/Medium-whitespace-pixels/assets/34070858/db6b33dc-0afa-43e6-8055-14cd68ddf5e9)
+
+
+
